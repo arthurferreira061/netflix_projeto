@@ -1,2 +1,2 @@
 # netflix_projeto
-Praticando front end netflix 
+Praticando front end da netflix 
